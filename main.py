@@ -35,7 +35,7 @@ def hangman():
             print("You have already guessed that character. Please try again. ")
 
         else: print("Invalid character. ")
-
+    print(word)
 
 
 hangman()
